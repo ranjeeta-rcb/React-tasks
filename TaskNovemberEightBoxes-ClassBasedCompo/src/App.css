@@ -1,0 +1,184 @@
+h1{
+  color: blueviolet ;
+}
+nav{
+  border: 2px solid black;
+  height: 500px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+.box1{
+  border: 2px solid red;
+  height: 95%;
+  width: 32%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center ;
+}
+.in-box{
+  border: 2px solid green;
+  height: 85%;
+  width: 90%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.inner-box1{
+  border: 2px solid green;
+  height: 60%;
+  width: 40%;
+}
+.inner-box2{
+  border: 2px solid green;
+  height: 60%;
+  width: 40%;
+}
+
+/* Box2 */
+.box2{
+  border: 2px solid red;
+  height: 95%;
+  width: 32%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.inbox1{
+  border: 2px solid green;
+  height: 85%;
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center ;
+}
+.inbox2{
+  border: 2px solid green;
+  height: 85%;
+  width: 40%;
+  display: grid;
+  justify-content: space-around;
+  align-items: center;
+}
+.innerBox2-2{
+  border: 2px solid pink;
+  height: 70%;
+  width: 130px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.innerBox2-3{
+  border: 2px solid pink;
+  height: 45%;
+  width: 130px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.insideBox2-1{
+  border: 2px solid goldenrod;
+  height: 40%;
+  width: 100px;
+}
+.insideBox2-2{
+  border: 2px solid goldenrod;
+  height: 90px;
+  width: 90px;
+  border-radius: 50%;
+}
+.innerBox1{
+  border: 2px solid gray;
+  height: 75%;
+  width: 70%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.insideBox{
+  border: 2px solid purple;
+  height: 65%;
+  width: 80%;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+.insideBox1{
+  border: 2px solid cornflowerblue;
+  height: 50%;
+  width: 80px;
+
+}
+.insideBox2{
+  border: 2px solid cornflowerblue;
+  height: 50%;
+  width: 80px;
+}
+.innerBox2{
+  border: 2px solid gray;
+  height: 75%;
+  width: 15%;
+}
+
+
+
+
+/* Box3 */
+.box3{
+  border: 2px solid red;
+  height: 95%;
+  width: 32%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.b1{
+  border: 2px solid pink;
+  height: 90%;
+  width: 85%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.b2{
+   border: 2px solid yellow;
+  height: 85%;
+  width: 85%;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.b3{
+   border: 2px solid blue;
+  height: 85%;
+  width: 80%;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.b4{
+   border: 2px solid purple;
+  height: 70%;
+  width: 70%;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.b5{
+   border: 2px solid cyan;
+  height: 50%;
+  width: 60%;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.b6{
+   border: 2px solid palevioletred;
+  height: 50%;
+  width: 60%;
+     border-radius: 50%;
+}
